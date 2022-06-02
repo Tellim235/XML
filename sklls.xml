@@ -1,0 +1,10 @@
+<Preferences>
+   <Base theory>1. Базовая теория (Что такое тестирование, багрепорты, документация, виды, методы, направления тестирования и т.п.) SDLC, STLC.</Base theory>  
+   <Client-Server>2. Что такое клиент-серверная архитектура.</Client-Server>  
+   <HTTP methods>3. HTTP Методы запросов на сервер.</HTTP methods>  
+   <HTTP codes>4. Коды ответов HTTP сервера.</HTTP codes>
+   <HTTP structures>5. Структуры HTTP запросов и ответов.</HTTP structures>
+   <JSON>6. Что такое JSON, XML. Их структура.</JSON>
+   <API>7. Тестирование API через Postman (JS, автотесты API).</API>
+   <Other_skills>и другие навыки</Other_skills>
+</Preferences>
