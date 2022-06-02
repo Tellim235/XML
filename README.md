@@ -23,9 +23,9 @@
    <Salary>300000</Salary>  
 </About_Me>
 ```
->**Esc
+>**Esc**
 
->**:wq
+>**:wq**
  28. Отправить изменения на внешний репозиторий.
 >**git add new.xml**
 
@@ -47,9 +47,9 @@
    <Counrty>Korea</Counrty>
 </Preferences>
 ```
->**Esc
+>**Esc**
 
->**:wq
+>**:wq**
  31. Создать файл sklls.xml добавить информацию о скиллах которые будут изучены на курсе в формате XML
 >**touch sklls.xml**
 
@@ -68,9 +68,9 @@
    <Other_skills>и другие навыки</Other_skills>
 </Preferences>  
 ```
->**Esc
+>**Esc**
 
->**:wq
+>**:wq**
  32. Сделать коммит в одну строку.
 >**git add preferences.xml sklls.xml**
 
