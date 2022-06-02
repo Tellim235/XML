@@ -1,1 +1,18 @@
-
+<Bug_report>
+        <ID> "A1"</ID>
+        <Title>Нажатие кнопки 'Поиск' на главной странице не предоставляет результат поиска</Title>
+        <Steps>
+                1. Зайти на главную страницу сайта (ссылка на сайт)
+                2. Ввести текст поиска
+		3. Нажать кнопку Поиск
+        </Steps>
+        <Enviroment>
+                <OS>Windows 10 x64</OS>
+                <Browser>Google Chrome v 100.0.4896.127</Browser>
+        <Expected_result>Нажатие кнопки Поиск выдает результат поиска</Expected_result>
+        <Actual_result>При нажатии кнопки Поиск ничего не происходит</Actual_result>
+        <Severity>Critical</Severity>
+        <Priority>High</Priority>
+        <Status>Open</Status>
+        <Attachments>ссылка на картинку или видео</Attachments>
+</Bug_report>
